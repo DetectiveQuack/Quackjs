@@ -1,7 +1,7 @@
-###SK Test API
+# SK Test API
 responses for siesta tests
 
-###structure
+### structure
 e.g. http method = POST 'http://localhost:2337/auth/find'
 json file would then go in:
 
@@ -10,7 +10,7 @@ json file would then go in:
 			POST ->
 				find.json
 
-###installation
+### installation
 npm install
 
 node app.js
