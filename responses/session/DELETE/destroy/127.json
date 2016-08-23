@@ -1,0 +1,11 @@
+[{
+    "auth": 43,
+    "token": null,
+    "token_expiry": null,
+    "uuid": "54cc9400-4650-4a60-ac54-fc41830fc0f7",
+    "created_at": "2016-08-23T19:21:15.000Z",
+    "updated_at": "2016-08-23T20:01:23.000Z",
+    "created_by": 1,
+    "updated_by": 1,
+    "id": 1
+}]
