@@ -3,15 +3,12 @@ responses for siesta tests
 
 ###structure
 e.g. http method = POST 'http://localhost:2337/auth/find'
+json file would then go in:
 
-	file would go in
-	responses
-		->
-			auth
-				->
-					POST
-						->
-							find.json
+	responses ->
+		auth ->
+			POST ->
+				find.json
 
 ###installation
 npm install
