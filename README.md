@@ -1,16 +1,16 @@
 # SK Test API
-responses for siesta tests
+## Fake responses for siesta tests
 
-### structure
-e.g. http method = POST 'http://localhost:2337/auth/find'
-json file would then go in:
+## Structure
+The route will be dynamically created based on the location of the file
+
+	e.g. http method = POST 'http://localhost:2337/auth/find'
 
 	responses ->
 		auth ->
 			POST ->
 				find.json
 
-### installation
-npm install
-
-node app.js
+## Installation
+1. npm install
+2. node app.js
