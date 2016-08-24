@@ -11,6 +11,8 @@ The route will be dynamically created based on the location of the file
 			POST ->
 				find.json
 
+Any routes that need custom logic then add to routes folder
+
 ## Installation
 1. npm install
 2. node app.js
