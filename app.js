@@ -42,7 +42,7 @@
                 ############~~---_____|_____---~~############
                 #############################################
 
-                    SKTestApi listening on port 2337`);
+                      SKTestApi listening on port 2337`);
     });
 
     app.get('/system/initialise', function(req, res) {
