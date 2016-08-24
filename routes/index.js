@@ -6,8 +6,9 @@ module.exports = function(app) {
 
     walker.on('file', function(path, file, next) {
         if (file.name === 'index.js' && path !== './routes') {
-            require(`./${path.slice(8)}/${file.name}`)(app);
+            console.log(`.${path.slice(8)}/${file.name}`);
+            require(`.${path.slice(8)}/${file.name}`)(app);
         }
         next();
     });
-}
+};

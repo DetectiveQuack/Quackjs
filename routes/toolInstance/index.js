@@ -1,8 +1,9 @@
 module.exports = function(app) {
 
-    const utils = require('./../../utils')(app);
+    const utils = require('./../../utils');
 
     app.post('/toolinstance', function(req, res) {
+        console.log(`${req.body.tool}.json`);
         utils.readFileAsync('./routes/toolInstance/responses', 'POST', '/toolinstance', `${req.body.tool}.json`)
             .then(function(data) {
                 res.send(data);
@@ -32,4 +33,4 @@ module.exports = function(app) {
             'updated_by': 815
         });
     });
-}
+};

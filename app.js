@@ -11,7 +11,7 @@
         walker = walk.walk('./responses', {
             followLinks: false
         }),
-        utils = require('./utils')(app),
+        utils = require('./utils'),
         bodyParser = require('body-parser');
 
     require('./routes')(app);
@@ -75,8 +75,8 @@
 
     //Create route by walking the responses directory
     walker.on('file', function(path, file, next) {
-        //slices path and file name to be something like /auth/find
-        let route = `${path.slice(11)}/${file.name.slice(0, -5)}`,
+        //slices path and file name to be something like /auth/find, do not add file name if file is index.json
+        let route = `${path.slice(11)}/${file.name === 'index.json' ? '' : file.name.slice(0, -5)}`,
             //gets method, if not in folder then all methods
             method = path.match(/GET|POST|PUT|DELETE/) || ['ALL'];
 
@@ -103,4 +103,12 @@
 
         next();
     });
+
+    //temp till re auth workaround
+    walker.on('end', function() {
+        app.get('*', function(req, res) {
+            res.send({});
+        });
+    });
+
 })();
