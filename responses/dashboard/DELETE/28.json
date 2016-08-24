@@ -1,0 +1,14 @@
+{
+    "tool_instances": [],
+    "title": "New Dashboard",
+    "grid_rows": 4,
+    "grid_columns": 4,
+    "order": 1,
+    "user": 815,
+    "uuid": "771533ba-c594-40b4-8915-36e33093557d",
+    "created_at": "2016-08-24T20:24:00.000Z",
+    "updated_at": "2016-08-24T20:24:00.000Z",
+    "created_by": 815,
+    "updated_by": 815,
+    "id": 28
+}

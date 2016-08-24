@@ -87,7 +87,7 @@
         if (file.name.startsWith('.')) {
             return next();
         }
-
+        console.log(route);
         app[method[0].toLowerCase()](route, function(req, res) {
             fs.readFile(`${path}/${file.name}`, function(err, data) {
                 console.log(`method: ${method[0].toLowerCase()} -> ${route}`);
