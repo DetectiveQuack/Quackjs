@@ -6,6 +6,7 @@
         http = require('http'),
         server = http.createServer(app),
         io = require('socket.io').listen(server),
+        fs = require('fs'),
         walk = require('walk'),
         walker = walk.walk('./responses', {
             followLinks: false
@@ -87,7 +88,18 @@
             return next();
         }
 
-        utils.createRouteAndSend(path, method[0].toLowerCase(), route, file.name);
+        app[method[0].toLowerCase()](route, function(req, res) {
+            fs.readFile(`${path}/${file.name}`, function(err, data) {
+                console.log(`method: ${method[0].toLowerCase()} -> ${route}`);
+                if (err) {
+                    res.status(500);
+                    res.send(err);
+                }
+
+                res.send(JSON.parse(data));
+            });
+        });
+
 
         next();
     });
