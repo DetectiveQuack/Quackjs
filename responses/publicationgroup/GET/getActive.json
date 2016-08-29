@@ -1,0 +1,4173 @@
+[{
+    "id": 236,
+    "group_publication_ref": "CLG",
+    "name": "CT&LG Self Serve",
+    "description": "CT&LG Self Serve",
+    "activation_date": "2014-11-19T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 152,
+        "publication_ref": "LG",
+        "name": "Legacy",
+        "description": "Legacy"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }],
+    "ref_name": "CLG - CT&LG Self Serve"
+}, {
+    "id": 1,
+    "group_publication_ref": "CS",
+    "name": "Chronicle Series",
+    "description": "Chronicle Series",
+    "activation_date": "1999-06-27T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 19,
+        "publication_ref": "WC",
+        "name": "Wolverhampton Chronicle",
+        "description": "Wolverhampton Chronicle"
+    }, {
+        "id": 18,
+        "publication_ref": "WT",
+        "name": "Walsall Chronicle",
+        "description": "Walsall Chronicle"
+    }, {
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }],
+    "ref_name": "CS - Chronicle Series"
+}, {
+    "id": 223,
+    "group_publication_ref": "DU",
+    "name": "DY & KE Property",
+    "description": "DY & KE Property",
+    "activation_date": "2012-10-21T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 277,
+        "publication_ref": "KE",
+        "name": "Kidderminster Edition",
+        "description": "Kidderminster Edition"
+    }, {
+        "id": 275,
+        "publication_ref": "DY",
+        "name": "Dudley Edition",
+        "description": "Dudley Edition"
+    }],
+    "ref_name": "DU - DY & KE Property"
+}, {
+    "id": 2,
+    "group_publication_ref": "DH",
+    "name": "DY+DT Property & Supplements",
+    "description": "DY+DT Property & Supplements",
+    "activation_date": "1999-08-03T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 275,
+        "publication_ref": "DY",
+        "name": "Dudley Edition",
+        "description": "Dudley Edition"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }],
+    "ref_name": "DH - DY+DT Property & Supplements"
+}, {
+    "id": 106,
+    "group_publication_ref": "DF",
+    "name": "DY+DT+HC Property",
+    "description": "DY+DT+HC Property",
+    "activation_date": "2004-11-12T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 275,
+        "publication_ref": "DY",
+        "name": "Dudley Edition",
+        "description": "Dudley Edition"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }],
+    "ref_name": "DF - DY+DT+HC Property"
+}, {
+    "id": 3,
+    "group_publication_ref": "DE",
+    "name": "DY+DT+HC+SH Property",
+    "description": "DY+DT+HC+SH Property",
+    "activation_date": "1999-08-03T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 275,
+        "publication_ref": "DY",
+        "name": "Dudley Edition",
+        "description": "Dudley Edition"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }],
+    "ref_name": "DE - DY+DT+HC+SH Property"
+}, {
+    "id": 5,
+    "group_publication_ref": "DJ",
+    "name": "DY+DT+HC+SH+SW Property",
+    "description": "DY+DT+HC+SH+SW Property",
+    "activation_date": "1999-08-03T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 275,
+        "publication_ref": "DY",
+        "name": "Dudley Edition",
+        "description": "Dudley Edition"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }],
+    "ref_name": "DJ - DY+DT+HC+SH+SW Property"
+}, {
+    "id": 4,
+    "group_publication_ref": "DB",
+    "name": "DY+DT+SH Property",
+    "description": "DY+DT+SH Property",
+    "activation_date": "1999-08-03T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 275,
+        "publication_ref": "DY",
+        "name": "Dudley Edition",
+        "description": "Dudley Edition"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }],
+    "ref_name": "DB - DY+DT+SH Property"
+}, {
+    "id": 70,
+    "group_publication_ref": "DD",
+    "name": "DY+DT+SW Property",
+    "description": "DY+DT+SW Property",
+    "activation_date": "2001-09-04T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 275,
+        "publication_ref": "DY",
+        "name": "Dudley Edition",
+        "description": "Dudley Edition"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }],
+    "ref_name": "DD - DY+DT+SW Property"
+}, {
+    "id": 6,
+    "group_publication_ref": "DA",
+    "name": "DY+HC Property & Supplements",
+    "description": "DY+HC Property & Supplements",
+    "activation_date": "1999-08-03T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 275,
+        "publication_ref": "DY",
+        "name": "Dudley Edition",
+        "description": "Dudley Edition"
+    }],
+    "ref_name": "DA - DY+HC Property & Supplements"
+}, {
+    "id": 10,
+    "group_publication_ref": "DL",
+    "name": "DY+HC+SH Property",
+    "description": "DY+HC+SH Property",
+    "activation_date": "1999-08-03T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 275,
+        "publication_ref": "DY",
+        "name": "Dudley Edition",
+        "description": "Dudley Edition"
+    }],
+    "ref_name": "DL - DY+HC+SH Property"
+}, {
+    "id": 11,
+    "group_publication_ref": "DN",
+    "name": "DY+HC+SH+SW Property",
+    "description": "DY+HC+SH+SW Property",
+    "activation_date": "1999-08-03T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 275,
+        "publication_ref": "DY",
+        "name": "Dudley Edition",
+        "description": "Dudley Edition"
+    }],
+    "ref_name": "DN - DY+HC+SH+SW Property"
+}, {
+    "id": 67,
+    "group_publication_ref": "DO",
+    "name": "DY+HC+SW Property",
+    "description": "DY+HC+SW Property",
+    "activation_date": "2001-02-09T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 275,
+        "publication_ref": "DY",
+        "name": "Dudley Edition",
+        "description": "Dudley Edition"
+    }],
+    "ref_name": "DO - DY+HC+SW Property"
+}, {
+    "id": 9,
+    "group_publication_ref": "DS",
+    "name": "DY+SH Property & Supplements",
+    "description": "DY+SH Property & Supplements",
+    "activation_date": "1999-08-03T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 275,
+        "publication_ref": "DY",
+        "name": "Dudley Edition",
+        "description": "Dudley Edition"
+    }],
+    "ref_name": "DS - DY+SH Property & Supplements"
+}, {
+    "id": 143,
+    "group_publication_ref": "DQ",
+    "name": "DY+SW Property",
+    "description": "DY+SW Property",
+    "activation_date": "2007-03-19T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 275,
+        "publication_ref": "DY",
+        "name": "Dudley Edition",
+        "description": "Dudley Edition"
+    }],
+    "ref_name": "DQ - DY+SW Property"
+}, {
+    "id": 72,
+    "group_publication_ref": "XI",
+    "name": "E&S & Internet",
+    "description": "E&S & Internet",
+    "activation_date": "2001-11-20T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "XI - E&S & Internet"
+}, {
+    "id": 175,
+    "group_publication_ref": "EEI",
+    "name": "EEI Package",
+    "description": "EEI Package",
+    "activation_date": "2009-01-15T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 18,
+        "publication_ref": "WT",
+        "name": "Walsall Chronicle",
+        "description": "Walsall Chronicle"
+    }, {
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }],
+    "ref_name": "EEI - EEI Package"
+}, {
+    "id": 214,
+    "group_publication_ref": "ES&CT",
+    "name": "ES & CT Sads",
+    "description": "ES & CT Sads",
+    "activation_date": "2011-11-29T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }],
+    "ref_name": "ES&CT - ES & CT Sads"
+}, {
+    "id": 167,
+    "group_publication_ref": "ESE",
+    "name": "ES & East Zone Chrons",
+    "description": "ES & East Zone Chrons",
+    "activation_date": "2008-06-24T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 18,
+        "publication_ref": "WT",
+        "name": "Walsall Chronicle",
+        "description": "Walsall Chronicle"
+    }, {
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }],
+    "ref_name": "ESE - ES & East Zone Chrons"
+}, {
+    "id": 228,
+    "group_publication_ref": "ESI",
+    "name": "ES & IN Self Serve",
+    "description": "ES & IN Self Serve",
+    "activation_date": "2013-06-03T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "ESI - ES & IN Self Serve"
+}, {
+    "id": 232,
+    "group_publication_ref": "ESL",
+    "name": "ES & LG Self Serve",
+    "description": "ES & LG Self Serve",
+    "activation_date": "2013-06-03T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 152,
+        "publication_ref": "LG",
+        "name": "Legacy",
+        "description": "Legacy"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "ESL - ES & LG Self Serve"
+}, {
+    "id": 246,
+    "group_publication_ref": "MXE",
+    "name": "ES & MCX",
+    "description": "ES & MCX",
+    "activation_date": "2015-09-01T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 216,
+        "publication_ref": "MCX",
+        "name": "Classified Ads ES",
+        "description": "Classified Ads ES"
+    }],
+    "ref_name": "MXE - ES & MCX"
+}, {
+    "id": 170,
+    "group_publication_ref": "ESW",
+    "name": "ES & West  Zone Chrons",
+    "description": "ES & West  Zone Chrons",
+    "activation_date": "2008-06-25T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 19,
+        "publication_ref": "WC",
+        "name": "Wolverhampton Chronicle",
+        "description": "Wolverhampton Chronicle"
+    }, {
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }],
+    "ref_name": "ESW - ES & West  Zone Chrons"
+}, {
+    "id": 121,
+    "group_publication_ref": "XGE",
+    "name": "ES + CT Sits Vac",
+    "description": "ES + CT Sits Vac",
+    "activation_date": "2006-12-04T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }],
+    "ref_name": "XGE - ES + CT Sits Vac"
+}, {
+    "id": 122,
+    "group_publication_ref": "XHE",
+    "name": "ES + DT Sits Vac",
+    "description": "ES + DT Sits Vac",
+    "activation_date": "2006-12-04T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }],
+    "ref_name": "XHE - ES + DT Sits Vac"
+}, {
+    "id": 120,
+    "group_publication_ref": "XDE",
+    "name": "ES + HC Sits Vac",
+    "description": "ES + HC Sits Vac",
+    "activation_date": "2006-12-04T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "XDE - ES + HC Sits Vac"
+}, {
+    "id": 118,
+    "group_publication_ref": "XAE",
+    "name": "ES + SH Sits Vac",
+    "description": "ES + SH Sits Vac",
+    "activation_date": "2006-12-04T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "XAE - ES + SH Sits Vac"
+}, {
+    "id": 123,
+    "group_publication_ref": "XME",
+    "name": "ES + SW Sits Vac",
+    "description": "ES + SW Sits Vac",
+    "activation_date": "2006-12-04T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "XME - ES + SW Sits Vac"
+}, {
+    "id": 127,
+    "group_publication_ref": "XWE",
+    "name": "ES + WC Sits Vac",
+    "description": "ES + WC Sits Vac",
+    "activation_date": "2006-12-04T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 19,
+        "publication_ref": "WC",
+        "name": "Wolverhampton Chronicle",
+        "description": "Wolverhampton Chronicle"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "XWE - ES + WC Sits Vac"
+}, {
+    "id": 125,
+    "group_publication_ref": "XOE",
+    "name": "ES + WT Sits Vac",
+    "description": "ES + WT Sits Vac",
+    "activation_date": "2006-12-04T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 18,
+        "publication_ref": "WT",
+        "name": "Walsall Chronicle",
+        "description": "Walsall Chronicle"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "XOE - ES + WT Sits Vac"
+}, {
+    "id": 235,
+    "group_publication_ref": "ECL",
+    "name": "ES&CT&LG Self Serve",
+    "description": "ES&CT&LG Self Serve",
+    "activation_date": "2014-11-19T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 152,
+        "publication_ref": "LG",
+        "name": "Legacy",
+        "description": "Legacy"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }],
+    "ref_name": "ECL - ES&CT&LG Self Serve"
+}, {
+    "id": 224,
+    "group_publication_ref": "ESOLB",
+    "name": "ES&OL Bronze",
+    "description": "ES&OL Bronze",
+    "activation_date": "2013-01-02T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 197,
+        "publication_ref": "HLLI",
+        "name": "Highlighted Listing & Logo IN",
+        "description": "Highlighted Listing & Logo IN"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "ESOLB - ES&OL Bronze"
+}, {
+    "id": 226,
+    "group_publication_ref": "ESOLG",
+    "name": "ES&OL Gold",
+    "description": "ES&OL Gold",
+    "activation_date": "2013-01-02T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 199,
+        "publication_ref": "HOJI",
+        "name": "Hot Job (IN)",
+        "description": "Hot Job (IN)"
+    }, {
+        "id": 197,
+        "publication_ref": "HLLI",
+        "name": "Highlighted Listing & Logo IN",
+        "description": "Highlighted Listing & Logo IN"
+    }, {
+        "id": 141,
+        "publication_ref": "FRI",
+        "name": "Featured Recruiter (IN)",
+        "description": "Featured Recruiter (IN)"
+    }, {
+        "id": 198,
+        "publication_ref": "FEAI",
+        "name": "Featured Ad (IN)",
+        "description": "Featured Ad (IN)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 113,
+        "publication_ref": "CVW",
+        "name": "CV Matcher Wolverhampton",
+        "description": "CV Matcher Wolverhampton"
+    }],
+    "ref_name": "ESOLG - ES&OL Gold"
+}, {
+    "id": 225,
+    "group_publication_ref": "ESOLS",
+    "name": "ES&OL Silver",
+    "description": "ES&OL Silver",
+    "activation_date": "2013-01-02T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 199,
+        "publication_ref": "HOJI",
+        "name": "Hot Job (IN)",
+        "description": "Hot Job (IN)"
+    }, {
+        "id": 198,
+        "publication_ref": "FEAI",
+        "name": "Featured Ad (IN)",
+        "description": "Featured Ad (IN)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "ESOLS - ES&OL Silver"
+}, {
+    "id": 138,
+    "group_publication_ref": "XCS",
+    "name": "ES+CS+IN Classifieds Package",
+    "description": "ES+CS+IN Classifieds Package",
+    "activation_date": "2006-12-14T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 19,
+        "publication_ref": "WC",
+        "name": "Wolverhampton Chronicle",
+        "description": "Wolverhampton Chronicle"
+    }, {
+        "id": 18,
+        "publication_ref": "WT",
+        "name": "Walsall Chronicle",
+        "description": "Walsall Chronicle"
+    }, {
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }],
+    "ref_name": "XCS - ES+CS+IN Classifieds Package"
+}, {
+    "id": 42,
+    "group_publication_ref": "XG",
+    "name": "ES+CT+IN  Classifieds Package",
+    "description": "ES+CT+IN Classifieds Package",
+    "activation_date": "2001-01-10T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }],
+    "ref_name": "XG - ES+CT+IN  Classifieds Package"
+}, {
+    "id": 43,
+    "group_publication_ref": "XH",
+    "name": "ES+DT+IN Classifieds Package",
+    "description": "ES+DT+IN Classifieds Package",
+    "activation_date": "2001-01-10T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }],
+    "ref_name": "XH - ES+DT+IN Classifieds Package"
+}, {
+    "id": 41,
+    "group_publication_ref": "XD",
+    "name": "ES+HC +IN  Classifieds Package",
+    "description": "ES+HC+IN   Classifieds Package",
+    "activation_date": "2001-01-10T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "XD - ES+HC +IN  Classifieds Package"
+}, {
+    "id": 40,
+    "group_publication_ref": "XA",
+    "name": "ES+SH+IN Classifieds Package",
+    "description": "ES+SH+IN Classifieds Package",
+    "activation_date": "2001-01-10T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "XA - ES+SH+IN Classifieds Package"
+}, {
+    "id": 44,
+    "group_publication_ref": "XM",
+    "name": "ES+SW+IN  Classifieds Package",
+    "description": "ES+SW+IN  Classifieds Package",
+    "activation_date": "2001-01-10T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "XM - ES+SW+IN  Classifieds Package"
+}, {
+    "id": 48,
+    "group_publication_ref": "XW",
+    "name": "ES+WC+IN Classifieds Package",
+    "description": "ES+WC+IN  Classifieds Package",
+    "activation_date": "2001-01-10T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 19,
+        "publication_ref": "WC",
+        "name": "Wolverhampton Chronicle",
+        "description": "Wolverhampton Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "XW - ES+WC+IN Classifieds Package"
+}, {
+    "id": 46,
+    "group_publication_ref": "XO",
+    "name": "ES+WT+INClassifieds Package",
+    "description": "ES+WT+IN Classifieds Package",
+    "activation_date": "2001-01-10T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 18,
+        "publication_ref": "WT",
+        "name": "Walsall Chronicle",
+        "description": "Walsall Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "XO - ES+WT+INClassifieds Package"
+}, {
+    "id": 176,
+    "group_publication_ref": "EWI",
+    "name": "EWI Package",
+    "description": "EWI Package",
+    "activation_date": "2009-01-15T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 19,
+        "publication_ref": "WC",
+        "name": "Wolverhampton Chronicle",
+        "description": "Wolverhampton Chronicle"
+    }, {
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }],
+    "ref_name": "EWI - EWI Package"
+}, {
+    "id": 169,
+    "group_publication_ref": "EZE",
+    "name": "EZ & East Zone Chrons",
+    "description": "EZ & East Zone Chrons",
+    "activation_date": "2008-06-25T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 18,
+        "publication_ref": "WT",
+        "name": "Walsall Chronicle",
+        "description": "Walsall Chronicle"
+    }, {
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 276,
+        "publication_ref": "EZ",
+        "name": "East Zone",
+        "description": "East Zone"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }],
+    "ref_name": "EZE - EZ & East Zone Chrons"
+}, {
+    "id": 229,
+    "group_publication_ref": "EZI",
+    "name": "EZ & IN Self Serve",
+    "description": "EZ & IN Self Serve",
+    "activation_date": "2013-06-03T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 276,
+        "publication_ref": "EZ",
+        "name": "East Zone",
+        "description": "East Zone"
+    }],
+    "ref_name": "EZI - EZ & IN Self Serve"
+}, {
+    "id": 173,
+    "group_publication_ref": "EZW",
+    "name": "EZ & West Zone Chrons",
+    "description": "EZ & West Zone Chrons",
+    "activation_date": "2008-07-14T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 19,
+        "publication_ref": "WC",
+        "name": "Wolverhampton Chronicle",
+        "description": "Wolverhampton Chronicle"
+    }, {
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 276,
+        "publication_ref": "EZ",
+        "name": "East Zone",
+        "description": "East Zone"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }],
+    "ref_name": "EZW - EZ & West Zone Chrons"
+}, {
+    "id": 57,
+    "group_publication_ref": "ZA",
+    "name": "EZ+CT+IN Trade Classifieds",
+    "description": "EZ+CT+IN Trade Classifieds",
+    "activation_date": "2001-01-17T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 276,
+        "publication_ref": "EZ",
+        "name": "East Zone",
+        "description": "East Zone"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }],
+    "ref_name": "ZA - EZ+CT+IN Trade Classifieds"
+}, {
+    "id": 59,
+    "group_publication_ref": "ZC",
+    "name": "EZ+SW+IN Trade Classifieds",
+    "description": "EZ+SW+IN Trade Classifieds",
+    "activation_date": "2001-01-17T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 276,
+        "publication_ref": "EZ",
+        "name": "East Zone",
+        "description": "East Zone"
+    }],
+    "ref_name": "ZC - EZ+SW+IN Trade Classifieds"
+}, {
+    "id": 61,
+    "group_publication_ref": "ZE",
+    "name": "EZ+WT+IN Trade Classifieds",
+    "description": "EZ+WT+IN Trade Classifieds",
+    "activation_date": "2001-01-17T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 18,
+        "publication_ref": "WT",
+        "name": "Walsall Chronicle",
+        "description": "Walsall Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 276,
+        "publication_ref": "EZ",
+        "name": "East Zone",
+        "description": "East Zone"
+    }],
+    "ref_name": "ZE - EZ+WT+IN Trade Classifieds"
+}, {
+    "id": 191,
+    "group_publication_ref": "EED",
+    "name": "East Edition",
+    "description": "East Edition",
+    "activation_date": "2009-06-15T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 284,
+        "publication_ref": "WL",
+        "name": "Walsall Edition",
+        "description": "Walsall Edition"
+    }, {
+        "id": 281,
+        "publication_ref": "SL",
+        "name": "Sandwell Edition",
+        "description": "Sandwell Edition"
+    }, {
+        "id": 278,
+        "publication_ref": "MS",
+        "name": "Mid-Staffs Edition",
+        "description": "Mid-Staffs Edition"
+    }],
+    "ref_name": "EED - East Edition"
+}, {
+    "id": 148,
+    "group_publication_ref": "EP",
+    "name": "Editionised Property",
+    "description": "Editionised Property",
+    "activation_date": "2007-09-19T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 284,
+        "publication_ref": "WL",
+        "name": "Walsall Edition",
+        "description": "Walsall Edition"
+    }, {
+        "id": 283,
+        "publication_ref": "TN",
+        "name": "Town Edition",
+        "description": "Town Edition"
+    }, {
+        "id": 281,
+        "publication_ref": "SL",
+        "name": "Sandwell Edition",
+        "description": "Sandwell Edition"
+    }, {
+        "id": 278,
+        "publication_ref": "MS",
+        "name": "Mid-Staffs Edition",
+        "description": "Mid-Staffs Edition"
+    }, {
+        "id": 275,
+        "publication_ref": "DY",
+        "name": "Dudley Edition",
+        "description": "Dudley Edition"
+    }],
+    "ref_name": "EP - Editionised Property"
+}, {
+    "id": 74,
+    "group_publication_ref": "GAI",
+    "name": "GA + IN Sits Vac Classifieds",
+    "description": "GA + IN Sits Vac Classifieds Package",
+    "activation_date": "2001-12-06T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "GAI - GA + IN Sits Vac Classifieds"
+}, {
+    "id": 76,
+    "group_publication_ref": "GDI",
+    "name": "GD + IN Sits Vac Classifieds",
+    "description": "GD + IN Sits Vac Classifieds",
+    "activation_date": "2001-12-06T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "GDI - GD + IN Sits Vac Classifieds"
+}, {
+    "id": 177,
+    "group_publication_ref": "GEWI",
+    "name": "GEWI Package",
+    "description": "GEWI Package",
+    "activation_date": "2009-01-15T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 18,
+        "publication_ref": "WT",
+        "name": "Walsall Chronicle",
+        "description": "Walsall Chronicle"
+    }, {
+        "id": 17,
+        "publication_ref": "JT",
+        "name": "Telford Journal",
+        "description": "Telford Journal"
+    }, {
+        "id": 12,
+        "publication_ref": "SJ",
+        "name": "South Shrops & M.Wales Journal",
+        "description": "South Shrops & M.Wales Journal"
+    }, {
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 10,
+        "publication_ref": "SC",
+        "name": "Shrewsbury Chronicle",
+        "description": "Shrewsbury Chronicle"
+    }, {
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 8,
+        "publication_ref": "NM",
+        "name": "Newport/M. Drayton Advertiser",
+        "description": "Newport/M. Drayton Advertiser"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }, {
+        "id": 1,
+        "publication_ref": "BJ",
+        "name": "Bridgnorth Journal",
+        "description": "Bridgnorth Journal"
+    }],
+    "ref_name": "GEWI - GEWI Package"
+}, {
+    "id": 77,
+    "group_publication_ref": "GGI",
+    "name": "GG + IN Sits Vac Classifieds",
+    "description": "GG + IN Sits Vac Classifieds",
+    "activation_date": "2001-12-06T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }],
+    "ref_name": "GGI - GG + IN Sits Vac Classifieds"
+}, {
+    "id": 78,
+    "group_publication_ref": "GHI",
+    "name": "GH + IN Sits Vac Classifieds",
+    "description": "GH + IN Sits Vac Classifieds",
+    "activation_date": "2001-12-06T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }],
+    "ref_name": "GHI - GH + IN Sits Vac Classifieds"
+}, {
+    "id": 79,
+    "group_publication_ref": "GMI",
+    "name": "GM + IN Sits Vac Packages",
+    "description": "GM + IN Sits Vac Packages",
+    "activation_date": "2001-12-06T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "GMI - GM + IN Sits Vac Packages"
+}, {
+    "id": 81,
+    "group_publication_ref": "GOI",
+    "name": "GO + IN Sits Vac Classifieds",
+    "description": "GO + IN Sits Vac Classifieds",
+    "activation_date": "2001-12-06T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 18,
+        "publication_ref": "WT",
+        "name": "Walsall Chronicle",
+        "description": "Walsall Chronicle"
+    }, {
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "GOI - GO + IN Sits Vac Classifieds"
+}, {
+    "id": 168,
+    "group_publication_ref": "GPE",
+    "name": "GP & East Zone Chrons",
+    "description": "GP & East Zone Chrons",
+    "activation_date": "2008-06-24T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 18,
+        "publication_ref": "WT",
+        "name": "Walsall Chronicle",
+        "description": "Walsall Chronicle"
+    }, {
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }],
+    "ref_name": "GPE - GP & East Zone Chrons"
+}, {
+    "id": 171,
+    "group_publication_ref": "GPW",
+    "name": "GP & West Zone Chrons",
+    "description": "GP & West Zone Chrons",
+    "activation_date": "2008-06-26T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 19,
+        "publication_ref": "WC",
+        "name": "Wolverhampton Chronicle",
+        "description": "Wolverhampton Chronicle"
+    }, {
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }],
+    "ref_name": "GPW - GP & West Zone Chrons"
+}, {
+    "id": 131,
+    "group_publication_ref": "GGE",
+    "name": "GP + CT Sits Vac",
+    "description": "GP + CT Sits Vac",
+    "activation_date": "2006-12-04T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }],
+    "ref_name": "GGE - GP + CT Sits Vac"
+}, {
+    "id": 132,
+    "group_publication_ref": "GHE",
+    "name": "GP + DT Sits Vac",
+    "description": "GP + DT Sits Vac",
+    "activation_date": "2006-12-04T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }],
+    "ref_name": "GHE - GP + DT Sits Vac"
+}, {
+    "id": 130,
+    "group_publication_ref": "GDE",
+    "name": "GP + HC Sits Vac",
+    "description": "GP + HC Sits Vac",
+    "activation_date": "2006-12-04T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "GDE - GP + HC Sits Vac"
+}, {
+    "id": 128,
+    "group_publication_ref": "GAE",
+    "name": "GP + SH Sits Vac",
+    "description": "GP + SH Sits Vac",
+    "activation_date": "2006-12-04T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "GAE - GP + SH Sits Vac"
+}, {
+    "id": 133,
+    "group_publication_ref": "GME",
+    "name": "GP + SW Sits Vac",
+    "description": "GP + SW Sits Vac",
+    "activation_date": "2006-12-04T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "GME - GP + SW Sits Vac"
+}, {
+    "id": 137,
+    "group_publication_ref": "GWE",
+    "name": "GP + WC Sits Vac",
+    "description": "GP + WC Sits Vac",
+    "activation_date": "2006-12-04T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 19,
+        "publication_ref": "WC",
+        "name": "Wolverhampton Chronicle",
+        "description": "Wolverhampton Chronicle"
+    }, {
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "GWE - GP + WC Sits Vac"
+}, {
+    "id": 135,
+    "group_publication_ref": "GOE",
+    "name": "GP + WT Sits Vac",
+    "description": "GP + WT Sits Vac",
+    "activation_date": "2006-12-04T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 18,
+        "publication_ref": "WT",
+        "name": "Walsall Chronicle",
+        "description": "Walsall Chronicle"
+    }, {
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "GOE - GP + WT Sits Vac"
+}, {
+    "id": 192,
+    "group_publication_ref": "GPOLB",
+    "name": "GP&OL Bronze",
+    "description": "GP&OL Bronze",
+    "activation_date": "2010-02-11T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 201,
+        "publication_ref": "JLI",
+        "name": "Job Listing (IN)",
+        "description": "Job Listing (IN)"
+    }, {
+        "id": 197,
+        "publication_ref": "HLLI",
+        "name": "Highlighted Listing & Logo IN",
+        "description": "Highlighted Listing & Logo IN"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 113,
+        "publication_ref": "CVW",
+        "name": "CV Matcher Wolverhampton",
+        "description": "CV Matcher Wolverhampton"
+    }],
+    "ref_name": "GPOLB - GP&OL Bronze"
+}, {
+    "id": 195,
+    "group_publication_ref": "GPOLD",
+    "name": "GP&OL Diamond",
+    "description": "GP&OL Diamond",
+    "activation_date": "2010-02-11T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 202,
+        "publication_ref": "PRPI",
+        "name": "Profile Page (IN)",
+        "description": "Profile Page (IN)"
+    }, {
+        "id": 201,
+        "publication_ref": "JLI",
+        "name": "Job Listing (IN)",
+        "description": "Job Listing (IN)"
+    }, {
+        "id": 199,
+        "publication_ref": "HOJI",
+        "name": "Hot Job (IN)",
+        "description": "Hot Job (IN)"
+    }, {
+        "id": 197,
+        "publication_ref": "HLLI",
+        "name": "Highlighted Listing & Logo IN",
+        "description": "Highlighted Listing & Logo IN"
+    }, {
+        "id": 141,
+        "publication_ref": "FRI",
+        "name": "Featured Recruiter (IN)",
+        "description": "Featured Recruiter (IN)"
+    }, {
+        "id": 198,
+        "publication_ref": "FEAI",
+        "name": "Featured Ad (IN)",
+        "description": "Featured Ad (IN)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 203,
+        "publication_ref": "CBAI",
+        "name": "Contextual Banner Ad (IN)",
+        "description": "Contextual Banner Ad (IN)"
+    }, {
+        "id": 113,
+        "publication_ref": "CVW",
+        "name": "CV Matcher Wolverhampton",
+        "description": "CV Matcher Wolverhampton"
+    }, {
+        "id": 200,
+        "publication_ref": "BLI",
+        "name": "Boosted Listing (IN)",
+        "description": "Boosted Listing (IN)"
+    }],
+    "ref_name": "GPOLD - GP&OL Diamond"
+}, {
+    "id": 194,
+    "group_publication_ref": "GPOLG",
+    "name": "GP&OL Gold",
+    "description": "GP&OL Gold",
+    "activation_date": "2010-02-11T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 201,
+        "publication_ref": "JLI",
+        "name": "Job Listing (IN)",
+        "description": "Job Listing (IN)"
+    }, {
+        "id": 199,
+        "publication_ref": "HOJI",
+        "name": "Hot Job (IN)",
+        "description": "Hot Job (IN)"
+    }, {
+        "id": 197,
+        "publication_ref": "HLLI",
+        "name": "Highlighted Listing & Logo IN",
+        "description": "Highlighted Listing & Logo IN"
+    }, {
+        "id": 141,
+        "publication_ref": "FRI",
+        "name": "Featured Recruiter (IN)",
+        "description": "Featured Recruiter (IN)"
+    }, {
+        "id": 198,
+        "publication_ref": "FEAI",
+        "name": "Featured Ad (IN)",
+        "description": "Featured Ad (IN)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 113,
+        "publication_ref": "CVW",
+        "name": "CV Matcher Wolverhampton",
+        "description": "CV Matcher Wolverhampton"
+    }, {
+        "id": 200,
+        "publication_ref": "BLI",
+        "name": "Boosted Listing (IN)",
+        "description": "Boosted Listing (IN)"
+    }],
+    "ref_name": "GPOLG - GP&OL Gold"
+}, {
+    "id": 193,
+    "group_publication_ref": "GPOLS",
+    "name": "GP&OL Silver",
+    "description": "GP&OL Silver",
+    "activation_date": "2010-02-11T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 201,
+        "publication_ref": "JLI",
+        "name": "Job Listing (IN)",
+        "description": "Job Listing (IN)"
+    }, {
+        "id": 199,
+        "publication_ref": "HOJI",
+        "name": "Hot Job (IN)",
+        "description": "Hot Job (IN)"
+    }, {
+        "id": 197,
+        "publication_ref": "HLLI",
+        "name": "Highlighted Listing & Logo IN",
+        "description": "Highlighted Listing & Logo IN"
+    }, {
+        "id": 198,
+        "publication_ref": "FEAI",
+        "name": "Featured Ad (IN)",
+        "description": "Featured Ad (IN)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 113,
+        "publication_ref": "CVW",
+        "name": "CV Matcher Wolverhampton",
+        "description": "CV Matcher Wolverhampton"
+    }],
+    "ref_name": "GPOLS - GP&OL Silver"
+}, {
+    "id": 139,
+    "group_publication_ref": "GCS",
+    "name": "GP+CS+IN Classifieds Package",
+    "description": "GP+CS+IN Classifieds Package",
+    "activation_date": "2006-12-14T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 19,
+        "publication_ref": "WC",
+        "name": "Wolverhampton Chronicle",
+        "description": "Wolverhampton Chronicle"
+    }, {
+        "id": 18,
+        "publication_ref": "WT",
+        "name": "Walsall Chronicle",
+        "description": "Walsall Chronicle"
+    }, {
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }],
+    "ref_name": "GCS - GP+CS+IN Classifieds Package"
+}, {
+    "id": 52,
+    "group_publication_ref": "GG",
+    "name": "GP+CT+IN  Classifieds Package",
+    "description": "GP+CT+IN  Classifieds Package",
+    "activation_date": "2001-01-10T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }],
+    "ref_name": "GG - GP+CT+IN  Classifieds Package"
+}, {
+    "id": 53,
+    "group_publication_ref": "GH",
+    "name": "GP+DT+IN  Classifieds Package",
+    "description": "GP+DT+IN  Classifieds Package",
+    "activation_date": "2001-01-10T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }],
+    "ref_name": "GH - GP+DT+IN  Classifieds Package"
+}, {
+    "id": 51,
+    "group_publication_ref": "GD",
+    "name": "GP+HC+IN  Classifieds Package",
+    "description": "GP+HC+IN  Classifieds Package",
+    "activation_date": "2001-01-10T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "GD - GP+HC+IN  Classifieds Package"
+}, {
+    "id": 49,
+    "group_publication_ref": "GA",
+    "name": "GP+SH+IN  Classifieds Package",
+    "description": "GP+SH+IN  Classifieds Package",
+    "activation_date": "2001-01-10T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "GA - GP+SH+IN  Classifieds Package"
+}, {
+    "id": 73,
+    "group_publication_ref": "GM",
+    "name": "GP+SW+IN  Classifieds Package",
+    "description": "GP+SW+IN  Classifieds Package",
+    "activation_date": "2001-01-10T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "GM - GP+SW+IN  Classifieds Package"
+}, {
+    "id": 56,
+    "group_publication_ref": "GW",
+    "name": "GP+WC+IN  Classifieds Package",
+    "description": "GP+WC+IN  Classifieds Package",
+    "activation_date": "2001-01-10T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 19,
+        "publication_ref": "WC",
+        "name": "Wolverhampton Chronicle",
+        "description": "Wolverhampton Chronicle"
+    }, {
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "GW - GP+WC+IN  Classifieds Package"
+}, {
+    "id": 55,
+    "group_publication_ref": "GO",
+    "name": "GP+WT+IN  Classifieds Package",
+    "description": "GP+WT+IN  Classifieds Package",
+    "activation_date": "2001-01-10T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 18,
+        "publication_ref": "WT",
+        "name": "Walsall Chronicle",
+        "description": "Walsall Chronicle"
+    }, {
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "GO - GP+WT+IN  Classifieds Package"
+}, {
+    "id": 83,
+    "group_publication_ref": "GWI",
+    "name": "GW + IN Sits Vac Classifieds",
+    "description": "GW + IN Sits Vac Classifieds",
+    "activation_date": "2001-12-06T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 19,
+        "publication_ref": "WC",
+        "name": "Wolverhampton Chronicle",
+        "description": "Wolverhampton Chronicle"
+    }, {
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "GWI - GW + IN Sits Vac Classifieds"
+}, {
+    "id": 178,
+    "group_publication_ref": "GWWI",
+    "name": "GWWI Package",
+    "description": "GWWI Package",
+    "activation_date": "2009-01-15T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 19,
+        "publication_ref": "WC",
+        "name": "Wolverhampton Chronicle",
+        "description": "Wolverhampton Chronicle"
+    }, {
+        "id": 17,
+        "publication_ref": "JT",
+        "name": "Telford Journal",
+        "description": "Telford Journal"
+    }, {
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 12,
+        "publication_ref": "SJ",
+        "name": "South Shrops & M.Wales Journal",
+        "description": "South Shrops & M.Wales Journal"
+    }, {
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 10,
+        "publication_ref": "SC",
+        "name": "Shrewsbury Chronicle",
+        "description": "Shrewsbury Chronicle"
+    }, {
+        "id": 8,
+        "publication_ref": "NM",
+        "name": "Newport/M. Drayton Advertiser",
+        "description": "Newport/M. Drayton Advertiser"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }, {
+        "id": 1,
+        "publication_ref": "BJ",
+        "name": "Bridgnorth Journal",
+        "description": "Bridgnorth Journal"
+    }],
+    "ref_name": "GWWI - GWWI Package"
+}, {
+    "id": 13,
+    "group_publication_ref": "GP",
+    "name": "Group",
+    "description": "Express & Star/Shropshire Star",
+    "activation_date": "1999-07-15T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "GP - Group"
+}, {
+    "id": 71,
+    "group_publication_ref": "GI",
+    "name": "Group & Internet",
+    "description": "Group & Internet",
+    "activation_date": "2001-11-07T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "GI - Group & Internet"
+}, {
+    "id": 108,
+    "group_publication_ref": "IGP",
+    "name": "Internet (Group)",
+    "description": "Internet (Group)",
+    "activation_date": "2006-02-21T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 11,
+        "publication_ref": "SI",
+        "name": "Shropshire Internet",
+        "description": "Shropshire Star.com"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }],
+    "ref_name": "IGP - Internet (Group)"
+}, {
+    "id": 16,
+    "group_publication_ref": "MS&CT",
+    "name": "MS & CT Property Package",
+    "description": "MS & CT Property Package",
+    "activation_date": "1999-08-04T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 278,
+        "publication_ref": "MS",
+        "name": "Mid-Staffs Edition",
+        "description": "Mid-Staffs Edition"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }],
+    "ref_name": "MS&CT - MS & CT Property Package"
+}, {
+    "id": 204,
+    "group_publication_ref": "OLBW",
+    "name": "OL Bronze IN",
+    "description": "OL Bronze IN",
+    "activation_date": "2010-02-12T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 201,
+        "publication_ref": "JLI",
+        "name": "Job Listing (IN)",
+        "description": "Job Listing (IN)"
+    }, {
+        "id": 197,
+        "publication_ref": "HLLI",
+        "name": "Highlighted Listing & Logo IN",
+        "description": "Highlighted Listing & Logo IN"
+    }, {
+        "id": 113,
+        "publication_ref": "CVW",
+        "name": "CV Matcher Wolverhampton",
+        "description": "CV Matcher Wolverhampton"
+    }],
+    "ref_name": "OLBW - OL Bronze IN"
+}, {
+    "id": 200,
+    "group_publication_ref": "OLBS",
+    "name": "OL Bronze SI",
+    "description": "OL Bronze SI",
+    "activation_date": "2010-02-12T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 196,
+        "publication_ref": "JL",
+        "name": "Job Listing (SI)",
+        "description": "Job Listing (SI)"
+    }, {
+        "id": 204,
+        "publication_ref": "HLL",
+        "name": "Highlighted Listing & Logo SI",
+        "description": "Highlighted Listing & Logo SI"
+    }, {
+        "id": 114,
+        "publication_ref": "CVS",
+        "name": "CV Matcher Shropshire",
+        "description": "CV Matcher Shropshire"
+    }],
+    "ref_name": "OLBS - OL Bronze SI"
+}, {
+    "id": 207,
+    "group_publication_ref": "OLDW",
+    "name": "OL Diamond IN",
+    "description": "OL Diamond IN",
+    "activation_date": "2010-02-12T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 202,
+        "publication_ref": "PRPI",
+        "name": "Profile Page (IN)",
+        "description": "Profile Page (IN)"
+    }, {
+        "id": 201,
+        "publication_ref": "JLI",
+        "name": "Job Listing (IN)",
+        "description": "Job Listing (IN)"
+    }, {
+        "id": 199,
+        "publication_ref": "HOJI",
+        "name": "Hot Job (IN)",
+        "description": "Hot Job (IN)"
+    }, {
+        "id": 197,
+        "publication_ref": "HLLI",
+        "name": "Highlighted Listing & Logo IN",
+        "description": "Highlighted Listing & Logo IN"
+    }, {
+        "id": 141,
+        "publication_ref": "FRI",
+        "name": "Featured Recruiter (IN)",
+        "description": "Featured Recruiter (IN)"
+    }, {
+        "id": 198,
+        "publication_ref": "FEAI",
+        "name": "Featured Ad (IN)",
+        "description": "Featured Ad (IN)"
+    }, {
+        "id": 203,
+        "publication_ref": "CBAI",
+        "name": "Contextual Banner Ad (IN)",
+        "description": "Contextual Banner Ad (IN)"
+    }, {
+        "id": 113,
+        "publication_ref": "CVW",
+        "name": "CV Matcher Wolverhampton",
+        "description": "CV Matcher Wolverhampton"
+    }, {
+        "id": 200,
+        "publication_ref": "BLI",
+        "name": "Boosted Listing (IN)",
+        "description": "Boosted Listing (IN)"
+    }],
+    "ref_name": "OLDW - OL Diamond IN"
+}, {
+    "id": 203,
+    "group_publication_ref": "OLDS",
+    "name": "OL Diamond SI",
+    "description": "OL Diamond SI",
+    "activation_date": "2010-02-12T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 208,
+        "publication_ref": "PRP",
+        "name": "Profile Page (SI)",
+        "description": "Profile Page (SI)"
+    }, {
+        "id": 196,
+        "publication_ref": "JL",
+        "name": "Job Listing (SI)",
+        "description": "Job Listing (SI)"
+    }, {
+        "id": 206,
+        "publication_ref": "HOJ",
+        "name": "Hot Job (SI)",
+        "description": "Hot Job (SI)"
+    }, {
+        "id": 204,
+        "publication_ref": "HLL",
+        "name": "Highlighted Listing & Logo SI",
+        "description": "Highlighted Listing & Logo SI"
+    }, {
+        "id": 118,
+        "publication_ref": "FE",
+        "name": "Featured Recruiter (SI)",
+        "description": "Featured Recruiter (SI)"
+    }, {
+        "id": 205,
+        "publication_ref": "FEA",
+        "name": "Featured Ad (SI)",
+        "description": "Featured Ad (SI)"
+    }, {
+        "id": 209,
+        "publication_ref": "CBA",
+        "name": "Contextual Banner Ad (SI)",
+        "description": "Contextual Banner Ad (SI)"
+    }, {
+        "id": 114,
+        "publication_ref": "CVS",
+        "name": "CV Matcher Shropshire",
+        "description": "CV Matcher Shropshire"
+    }, {
+        "id": 207,
+        "publication_ref": "BL",
+        "name": "Boosted Listing (SI)",
+        "description": "Boosted Listing (SI)"
+    }],
+    "ref_name": "OLDS - OL Diamond SI"
+}, {
+    "id": 206,
+    "group_publication_ref": "OLGW",
+    "name": "OL Gold IN",
+    "description": "OL Gold IN",
+    "activation_date": "2010-02-12T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 201,
+        "publication_ref": "JLI",
+        "name": "Job Listing (IN)",
+        "description": "Job Listing (IN)"
+    }, {
+        "id": 199,
+        "publication_ref": "HOJI",
+        "name": "Hot Job (IN)",
+        "description": "Hot Job (IN)"
+    }, {
+        "id": 197,
+        "publication_ref": "HLLI",
+        "name": "Highlighted Listing & Logo IN",
+        "description": "Highlighted Listing & Logo IN"
+    }, {
+        "id": 141,
+        "publication_ref": "FRI",
+        "name": "Featured Recruiter (IN)",
+        "description": "Featured Recruiter (IN)"
+    }, {
+        "id": 198,
+        "publication_ref": "FEAI",
+        "name": "Featured Ad (IN)",
+        "description": "Featured Ad (IN)"
+    }, {
+        "id": 113,
+        "publication_ref": "CVW",
+        "name": "CV Matcher Wolverhampton",
+        "description": "CV Matcher Wolverhampton"
+    }, {
+        "id": 200,
+        "publication_ref": "BLI",
+        "name": "Boosted Listing (IN)",
+        "description": "Boosted Listing (IN)"
+    }],
+    "ref_name": "OLGW - OL Gold IN"
+}, {
+    "id": 202,
+    "group_publication_ref": "OLGS",
+    "name": "OL Gold SI",
+    "description": "OL Gold SI",
+    "activation_date": "2010-02-12T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 196,
+        "publication_ref": "JL",
+        "name": "Job Listing (SI)",
+        "description": "Job Listing (SI)"
+    }, {
+        "id": 206,
+        "publication_ref": "HOJ",
+        "name": "Hot Job (SI)",
+        "description": "Hot Job (SI)"
+    }, {
+        "id": 204,
+        "publication_ref": "HLL",
+        "name": "Highlighted Listing & Logo SI",
+        "description": "Highlighted Listing & Logo SI"
+    }, {
+        "id": 118,
+        "publication_ref": "FE",
+        "name": "Featured Recruiter (SI)",
+        "description": "Featured Recruiter (SI)"
+    }, {
+        "id": 205,
+        "publication_ref": "FEA",
+        "name": "Featured Ad (SI)",
+        "description": "Featured Ad (SI)"
+    }, {
+        "id": 114,
+        "publication_ref": "CVS",
+        "name": "CV Matcher Shropshire",
+        "description": "CV Matcher Shropshire"
+    }, {
+        "id": 207,
+        "publication_ref": "BL",
+        "name": "Boosted Listing (SI)",
+        "description": "Boosted Listing (SI)"
+    }],
+    "ref_name": "OLGS - OL Gold SI"
+}, {
+    "id": 205,
+    "group_publication_ref": "OLSW",
+    "name": "OL Silver IN",
+    "description": "OL Silver IN",
+    "activation_date": "2010-02-12T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 201,
+        "publication_ref": "JLI",
+        "name": "Job Listing (IN)",
+        "description": "Job Listing (IN)"
+    }, {
+        "id": 197,
+        "publication_ref": "HLLI",
+        "name": "Highlighted Listing & Logo IN",
+        "description": "Highlighted Listing & Logo IN"
+    }, {
+        "id": 198,
+        "publication_ref": "FEAI",
+        "name": "Featured Ad (IN)",
+        "description": "Featured Ad (IN)"
+    }, {
+        "id": 113,
+        "publication_ref": "CVW",
+        "name": "CV Matcher Wolverhampton",
+        "description": "CV Matcher Wolverhampton"
+    }, {
+        "id": 200,
+        "publication_ref": "BLI",
+        "name": "Boosted Listing (IN)",
+        "description": "Boosted Listing (IN)"
+    }],
+    "ref_name": "OLSW - OL Silver IN"
+}, {
+    "id": 201,
+    "group_publication_ref": "OLSS",
+    "name": "OL Silver SI",
+    "description": "OL Silver SI",
+    "activation_date": "2010-02-12T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 196,
+        "publication_ref": "JL",
+        "name": "Job Listing (SI)",
+        "description": "Job Listing (SI)"
+    }, {
+        "id": 204,
+        "publication_ref": "HLL",
+        "name": "Highlighted Listing & Logo SI",
+        "description": "Highlighted Listing & Logo SI"
+    }, {
+        "id": 205,
+        "publication_ref": "FEA",
+        "name": "Featured Ad (SI)",
+        "description": "Featured Ad (SI)"
+    }, {
+        "id": 114,
+        "publication_ref": "CVS",
+        "name": "CV Matcher Shropshire",
+        "description": "CV Matcher Shropshire"
+    }, {
+        "id": 207,
+        "publication_ref": "BL",
+        "name": "Boosted Listing (SI)",
+        "description": "Boosted Listing (SI)"
+    }],
+    "ref_name": "OLSS - OL Silver SI"
+}, {
+    "id": 227,
+    "group_publication_ref": "OJL",
+    "name": "Online Job Listing",
+    "description": "Online Job Listing",
+    "activation_date": "2013-02-08T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 196,
+        "publication_ref": "JL",
+        "name": "Job Listing (SI)",
+        "description": "Job Listing (SI)"
+    }, {
+        "id": 201,
+        "publication_ref": "JLI",
+        "name": "Job Listing (IN)",
+        "description": "Job Listing (IN)"
+    }],
+    "ref_name": "OJL - Online Job Listing"
+}, {
+    "id": 211,
+    "group_publication_ref": "BX",
+    "name": "SL & WC Property",
+    "description": "SL & WC Property",
+    "activation_date": "2010-05-25T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 19,
+        "publication_ref": "WC",
+        "name": "Wolverhampton Chronicle",
+        "description": "Wolverhampton Chronicle"
+    }, {
+        "id": 281,
+        "publication_ref": "SL",
+        "name": "Sandwell Edition",
+        "description": "Sandwell Edition"
+    }],
+    "ref_name": "BX - SL & WC Property"
+}, {
+    "id": 159,
+    "group_publication_ref": "BV",
+    "name": "SL & WT Property",
+    "description": "SL & WT Property",
+    "activation_date": "2008-02-27T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 18,
+        "publication_ref": "WT",
+        "name": "Walsall Chronicle",
+        "description": "Walsall Chronicle"
+    }, {
+        "id": 281,
+        "publication_ref": "SL",
+        "name": "Sandwell Edition",
+        "description": "Sandwell Edition"
+    }],
+    "ref_name": "BV - SL & WT Property"
+}, {
+    "id": 144,
+    "group_publication_ref": "BS",
+    "name": "SL+DT Property",
+    "description": "SL+DT Property",
+    "activation_date": "2007-03-27T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 281,
+        "publication_ref": "SL",
+        "name": "Sandwell Edition",
+        "description": "Sandwell Edition"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }],
+    "ref_name": "BS - SL+DT Property"
+}, {
+    "id": 25,
+    "group_publication_ref": "BM",
+    "name": "SL+SW Property & Supplements",
+    "description": "SL+SW Property & Supplements",
+    "activation_date": "1999-11-02T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 281,
+        "publication_ref": "SL",
+        "name": "Sandwell Edition",
+        "description": "Sandwell Edition"
+    }, {
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }],
+    "ref_name": "BM - SL+SW Property & Supplements"
+}, {
+    "id": 213,
+    "group_publication_ref": "BK",
+    "name": "SL+SW+HC Property",
+    "description": "SL+SW+HC Property",
+    "activation_date": "2011-05-11T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 281,
+        "publication_ref": "SL",
+        "name": "Sandwell Edition",
+        "description": "Sandwell Edition"
+    }, {
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }],
+    "ref_name": "BK - SL+SW+HC Property"
+}, {
+    "id": 146,
+    "group_publication_ref": "BU",
+    "name": "SL+SW+WC+DT+HC Property",
+    "description": "SL+SW+WC+DT+HC Property",
+    "activation_date": "2007-07-05T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 19,
+        "publication_ref": "WC",
+        "name": "Wolverhampton Chronicle",
+        "description": "Wolverhampton Chronicle"
+    }, {
+        "id": 281,
+        "publication_ref": "SL",
+        "name": "Sandwell Edition",
+        "description": "Sandwell Edition"
+    }, {
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }],
+    "ref_name": "BU - SL+SW+WC+DT+HC Property"
+}, {
+    "id": 233,
+    "group_publication_ref": "SSL",
+    "name": "SS & LS Self Serve",
+    "description": "SS & LS Self Serve",
+    "activation_date": "2013-06-03T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 153,
+        "publication_ref": "LS",
+        "name": "Legacy Shropshire",
+        "description": "Legacy Shropshire"
+    }],
+    "ref_name": "SSL - SS & LS Self Serve"
+}, {
+    "id": 247,
+    "group_publication_ref": "MXS",
+    "name": "SS & MCX",
+    "description": "SS & MCX",
+    "activation_date": "2015-09-01T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 216,
+        "publication_ref": "MCX",
+        "name": "Classified Ads ES",
+        "description": "Classified Ads ES"
+    }],
+    "ref_name": "MXS - SS & MCX"
+}, {
+    "id": 215,
+    "group_publication_ref": "SSOB",
+    "name": "SS & OB Sads",
+    "description": "SS & OB Sads",
+    "activation_date": "2012-01-05T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 223,
+        "publication_ref": "OB",
+        "name": "Oswestry and Border Chronicle",
+        "description": "Oswestry and Border Chronicle"
+    }],
+    "ref_name": "SSOB - SS & OB Sads"
+}, {
+    "id": 231,
+    "group_publication_ref": "SIS",
+    "name": "SS & SI Self Serve",
+    "description": "SS & SI Self Serve",
+    "activation_date": "2013-06-03T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 11,
+        "publication_ref": "SI",
+        "name": "Shropshire Internet",
+        "description": "Shropshire Star.com"
+    }],
+    "ref_name": "SIS - SS & SI Self Serve"
+}, {
+    "id": 237,
+    "group_publication_ref": "SBJI",
+    "name": "SS&BJ&SI Self Serve",
+    "description": "SS&BJ&SI Self Serve",
+    "activation_date": "2015-01-07T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 11,
+        "publication_ref": "SI",
+        "name": "Shropshire Internet",
+        "description": "Shropshire Star.com"
+    }, {
+        "id": 1,
+        "publication_ref": "BJ",
+        "name": "Bridgnorth Journal",
+        "description": "Bridgnorth Journal"
+    }],
+    "ref_name": "SBJI - SS&BJ&SI Self Serve"
+}, {
+    "id": 240,
+    "group_publication_ref": "SJTI",
+    "name": "SS&JT&SI Self Serve",
+    "description": "SS&JT&SI Self Serve",
+    "activation_date": "2015-01-07T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 17,
+        "publication_ref": "JT",
+        "name": "Telford Journal",
+        "description": "Telford Journal"
+    }, {
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 11,
+        "publication_ref": "SI",
+        "name": "Shropshire Internet",
+        "description": "Shropshire Star.com"
+    }],
+    "ref_name": "SJTI - SS&JT&SI Self Serve"
+}, {
+    "id": 238,
+    "group_publication_ref": "SNMI",
+    "name": "SS&NM&SI Self Serve",
+    "description": "SS&NM&SI Self Serve",
+    "activation_date": "2015-01-07T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 11,
+        "publication_ref": "SI",
+        "name": "Shropshire Internet",
+        "description": "Shropshire Star.com"
+    }, {
+        "id": 8,
+        "publication_ref": "NM",
+        "name": "Newport/M. Drayton Advertiser",
+        "description": "Newport/M. Drayton Advertiser"
+    }],
+    "ref_name": "SNMI - SS&NM&SI Self Serve"
+}, {
+    "id": 196,
+    "group_publication_ref": "SSOLB",
+    "name": "SS&OL Bronze",
+    "description": "SS&OL Bronze",
+    "activation_date": "2010-02-12T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 196,
+        "publication_ref": "JL",
+        "name": "Job Listing (SI)",
+        "description": "Job Listing (SI)"
+    }, {
+        "id": 204,
+        "publication_ref": "HLL",
+        "name": "Highlighted Listing & Logo SI",
+        "description": "Highlighted Listing & Logo SI"
+    }, {
+        "id": 114,
+        "publication_ref": "CVS",
+        "name": "CV Matcher Shropshire",
+        "description": "CV Matcher Shropshire"
+    }],
+    "ref_name": "SSOLB - SS&OL Bronze"
+}, {
+    "id": 199,
+    "group_publication_ref": "SSOLD",
+    "name": "SS&OL Diamond",
+    "description": "SS&OL Diamond",
+    "activation_date": "2010-02-12T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 208,
+        "publication_ref": "PRP",
+        "name": "Profile Page (SI)",
+        "description": "Profile Page (SI)"
+    }, {
+        "id": 196,
+        "publication_ref": "JL",
+        "name": "Job Listing (SI)",
+        "description": "Job Listing (SI)"
+    }, {
+        "id": 206,
+        "publication_ref": "HOJ",
+        "name": "Hot Job (SI)",
+        "description": "Hot Job (SI)"
+    }, {
+        "id": 204,
+        "publication_ref": "HLL",
+        "name": "Highlighted Listing & Logo SI",
+        "description": "Highlighted Listing & Logo SI"
+    }, {
+        "id": 118,
+        "publication_ref": "FE",
+        "name": "Featured Recruiter (SI)",
+        "description": "Featured Recruiter (SI)"
+    }, {
+        "id": 205,
+        "publication_ref": "FEA",
+        "name": "Featured Ad (SI)",
+        "description": "Featured Ad (SI)"
+    }, {
+        "id": 209,
+        "publication_ref": "CBA",
+        "name": "Contextual Banner Ad (SI)",
+        "description": "Contextual Banner Ad (SI)"
+    }, {
+        "id": 114,
+        "publication_ref": "CVS",
+        "name": "CV Matcher Shropshire",
+        "description": "CV Matcher Shropshire"
+    }, {
+        "id": 207,
+        "publication_ref": "BL",
+        "name": "Boosted Listing (SI)",
+        "description": "Boosted Listing (SI)"
+    }],
+    "ref_name": "SSOLD - SS&OL Diamond"
+}, {
+    "id": 198,
+    "group_publication_ref": "SSOLG",
+    "name": "SS&OL Gold",
+    "description": "SS&OL Gold",
+    "activation_date": "2010-02-12T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 196,
+        "publication_ref": "JL",
+        "name": "Job Listing (SI)",
+        "description": "Job Listing (SI)"
+    }, {
+        "id": 206,
+        "publication_ref": "HOJ",
+        "name": "Hot Job (SI)",
+        "description": "Hot Job (SI)"
+    }, {
+        "id": 204,
+        "publication_ref": "HLL",
+        "name": "Highlighted Listing & Logo SI",
+        "description": "Highlighted Listing & Logo SI"
+    }, {
+        "id": 118,
+        "publication_ref": "FE",
+        "name": "Featured Recruiter (SI)",
+        "description": "Featured Recruiter (SI)"
+    }, {
+        "id": 205,
+        "publication_ref": "FEA",
+        "name": "Featured Ad (SI)",
+        "description": "Featured Ad (SI)"
+    }, {
+        "id": 114,
+        "publication_ref": "CVS",
+        "name": "CV Matcher Shropshire",
+        "description": "CV Matcher Shropshire"
+    }, {
+        "id": 207,
+        "publication_ref": "BL",
+        "name": "Boosted Listing (SI)",
+        "description": "Boosted Listing (SI)"
+    }],
+    "ref_name": "SSOLG - SS&OL Gold"
+}, {
+    "id": 197,
+    "group_publication_ref": "SSOLS",
+    "name": "SS&OL Silver",
+    "description": "SS&OL Silver",
+    "activation_date": "2010-02-12T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 196,
+        "publication_ref": "JL",
+        "name": "Job Listing (SI)",
+        "description": "Job Listing (SI)"
+    }, {
+        "id": 206,
+        "publication_ref": "HOJ",
+        "name": "Hot Job (SI)",
+        "description": "Hot Job (SI)"
+    }, {
+        "id": 204,
+        "publication_ref": "HLL",
+        "name": "Highlighted Listing & Logo SI",
+        "description": "Highlighted Listing & Logo SI"
+    }, {
+        "id": 205,
+        "publication_ref": "FEA",
+        "name": "Featured Ad (SI)",
+        "description": "Featured Ad (SI)"
+    }, {
+        "id": 114,
+        "publication_ref": "CVS",
+        "name": "CV Matcher Shropshire",
+        "description": "CV Matcher Shropshire"
+    }],
+    "ref_name": "SSOLS - SS&OL Silver"
+}, {
+    "id": 234,
+    "group_publication_ref": "SCL",
+    "name": "SS&SC&LS Self Serve",
+    "description": "SS&SC&LS Self Serve",
+    "activation_date": "2014-10-30T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 10,
+        "publication_ref": "SC",
+        "name": "Shrewsbury Chronicle",
+        "description": "Shrewsbury Chronicle"
+    }, {
+        "id": 153,
+        "publication_ref": "LS",
+        "name": "Legacy Shropshire",
+        "description": "Legacy Shropshire"
+    }],
+    "ref_name": "SCL - SS&SC&LS Self Serve"
+}, {
+    "id": 241,
+    "group_publication_ref": "SSCI",
+    "name": "SS&SC&SI Self Serve",
+    "description": "SS&SC&SI Self Serve",
+    "activation_date": "2015-01-07T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 11,
+        "publication_ref": "SI",
+        "name": "Shropshire Internet",
+        "description": "Shropshire Star.com"
+    }, {
+        "id": 10,
+        "publication_ref": "SC",
+        "name": "Shrewsbury Chronicle",
+        "description": "Shrewsbury Chronicle"
+    }],
+    "ref_name": "SSCI - SS&SC&SI Self Serve"
+}, {
+    "id": 239,
+    "group_publication_ref": "SSJI",
+    "name": "SS&SJ&SI Self Serve",
+    "description": "SS&SJ&SI Self Serve",
+    "activation_date": "2015-01-07T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 12,
+        "publication_ref": "SJ",
+        "name": "South Shrops & M.Wales Journal",
+        "description": "South Shrops & M.Wales Journal"
+    }, {
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 11,
+        "publication_ref": "SI",
+        "name": "Shropshire Internet",
+        "description": "Shropshire Star.com"
+    }],
+    "ref_name": "SSJI - SS&SJ&SI Self Serve"
+}, {
+    "id": 100,
+    "group_publication_ref": "SSI",
+    "name": "SS+SI",
+    "description": "SS+SI",
+    "activation_date": "2003-02-03T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 11,
+        "publication_ref": "SI",
+        "name": "Shropshire Internet",
+        "description": "Shropshire Star.com"
+    }],
+    "ref_name": "SSI - SS+SI"
+}, {
+    "id": 149,
+    "group_publication_ref": "SSIL",
+    "name": "SS+SI+LS",
+    "description": "SS+SI+LS",
+    "activation_date": "2007-11-28T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 11,
+        "publication_ref": "SI",
+        "name": "Shropshire Internet",
+        "description": "Shropshire Star.com"
+    }, {
+        "id": 153,
+        "publication_ref": "LS",
+        "name": "Legacy Shropshire",
+        "description": "Legacy Shropshire"
+    }],
+    "ref_name": "SSIL - SS+SI+LS"
+}, {
+    "id": 102,
+    "group_publication_ref": "WKI",
+    "name": "SS+WS+SI",
+    "description": "SS+WS+SI",
+    "activation_date": "2003-02-03T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 17,
+        "publication_ref": "JT",
+        "name": "Telford Journal",
+        "description": "Telford Journal"
+    }, {
+        "id": 12,
+        "publication_ref": "SJ",
+        "name": "South Shrops & M.Wales Journal",
+        "description": "South Shrops & M.Wales Journal"
+    }, {
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 11,
+        "publication_ref": "SI",
+        "name": "Shropshire Internet",
+        "description": "Shropshire Star.com"
+    }, {
+        "id": 10,
+        "publication_ref": "SC",
+        "name": "Shrewsbury Chronicle",
+        "description": "Shrewsbury Chronicle"
+    }, {
+        "id": 8,
+        "publication_ref": "NM",
+        "name": "Newport/M. Drayton Advertiser",
+        "description": "Newport/M. Drayton Advertiser"
+    }, {
+        "id": 1,
+        "publication_ref": "BJ",
+        "name": "Bridgnorth Journal",
+        "description": "Bridgnorth Journal"
+    }],
+    "ref_name": "WKI - SS+WS+SI"
+}, {
+    "id": 151,
+    "group_publication_ref": "WKIL",
+    "name": "SS+WS+SI+LS",
+    "description": "SS+WS+SI+LS",
+    "activation_date": "2007-11-28T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 17,
+        "publication_ref": "JT",
+        "name": "Telford Journal",
+        "description": "Telford Journal"
+    }, {
+        "id": 12,
+        "publication_ref": "SJ",
+        "name": "South Shrops & M.Wales Journal",
+        "description": "South Shrops & M.Wales Journal"
+    }, {
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 11,
+        "publication_ref": "SI",
+        "name": "Shropshire Internet",
+        "description": "Shropshire Star.com"
+    }, {
+        "id": 10,
+        "publication_ref": "SC",
+        "name": "Shrewsbury Chronicle",
+        "description": "Shrewsbury Chronicle"
+    }, {
+        "id": 8,
+        "publication_ref": "NM",
+        "name": "Newport/M. Drayton Advertiser",
+        "description": "Newport/M. Drayton Advertiser"
+    }, {
+        "id": 153,
+        "publication_ref": "LS",
+        "name": "Legacy Shropshire",
+        "description": "Legacy Shropshire"
+    }, {
+        "id": 1,
+        "publication_ref": "BJ",
+        "name": "Bridgnorth Journal",
+        "description": "Bridgnorth Journal"
+    }],
+    "ref_name": "WKIL - SS+WS+SI+LS"
+}, {
+    "id": 19,
+    "group_publication_ref": "WK",
+    "name": "Shrops Star & Weeklies",
+    "description": "Shrops Star & Weeklies",
+    "activation_date": "1999-06-27T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 17,
+        "publication_ref": "JT",
+        "name": "Telford Journal",
+        "description": "Telford Journal"
+    }, {
+        "id": 12,
+        "publication_ref": "SJ",
+        "name": "South Shrops & M.Wales Journal",
+        "description": "South Shrops & M.Wales Journal"
+    }, {
+        "id": 23,
+        "publication_ref": "SS",
+        "name": "Shropshire Star",
+        "description": "Shropshire Star"
+    }, {
+        "id": 10,
+        "publication_ref": "SC",
+        "name": "Shrewsbury Chronicle",
+        "description": "Shrewsbury Chronicle"
+    }, {
+        "id": 8,
+        "publication_ref": "NM",
+        "name": "Newport/M. Drayton Advertiser",
+        "description": "Newport/M. Drayton Advertiser"
+    }, {
+        "id": 1,
+        "publication_ref": "BJ",
+        "name": "Bridgnorth Journal",
+        "description": "Bridgnorth Journal"
+    }],
+    "ref_name": "WK - Shrops Star & Weeklies"
+}, {
+    "id": 189,
+    "group_publication_ref": "TN&SE",
+    "name": "TN&SE Property",
+    "description": "TN&SE Property",
+    "activation_date": "2009-06-10T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 283,
+        "publication_ref": "TN",
+        "name": "Town Edition",
+        "description": "Town Edition"
+    }, {
+        "id": 282,
+        "publication_ref": "SE",
+        "name": "Stafford Edition",
+        "description": "Stafford Edition"
+    }],
+    "ref_name": "TN&SE - TN&SE Property"
+}, {
+    "id": 166,
+    "group_publication_ref": "TN&SH",
+    "name": "TN&SH Property & Supplements",
+    "description": "TN&SH Property & Supplements",
+    "activation_date": "2008-06-23T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 283,
+        "publication_ref": "TN",
+        "name": "Town Edition",
+        "description": "Town Edition"
+    }, {
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }],
+    "ref_name": "TN&SH - TN&SH Property & Supplements"
+}, {
+    "id": 147,
+    "group_publication_ref": "TN&SW",
+    "name": "TN&SW Property & Supplements",
+    "description": "TN&SW Property & Supplements",
+    "activation_date": "2007-09-02T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 283,
+        "publication_ref": "TN",
+        "name": "Town Edition",
+        "description": "Town Edition"
+    }, {
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }],
+    "ref_name": "TN&SW - TN&SW Property & Supplements"
+}, {
+    "id": 160,
+    "group_publication_ref": "TN&WT",
+    "name": "TN&WT Property & Supplements",
+    "description": "TN&WT Property & Supplements",
+    "activation_date": "2008-03-19T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 18,
+        "publication_ref": "WT",
+        "name": "Walsall Chronicle",
+        "description": "Walsall Chronicle"
+    }, {
+        "id": 283,
+        "publication_ref": "TN",
+        "name": "Town Edition",
+        "description": "Town Edition"
+    }],
+    "ref_name": "TN&WT - TN&WT Property & Supplements"
+}, {
+    "id": 117,
+    "group_publication_ref": "DR",
+    "name": "TN+DT Property",
+    "description": "TN+DT Property",
+    "activation_date": "2006-09-19T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 283,
+        "publication_ref": "TN",
+        "name": "Town Edition",
+        "description": "Town Edition"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }],
+    "ref_name": "DR - TN+DT Property"
+}, {
+    "id": 29,
+    "group_publication_ref": "TN&WC",
+    "name": "TN+WC Property & Supplements",
+    "description": " TN+WC Property  & Supplements",
+    "activation_date": "1999-11-02T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 19,
+        "publication_ref": "WC",
+        "name": "Wolverhampton Chronicle",
+        "description": "Wolverhampton Chronicle"
+    }, {
+        "id": 283,
+        "publication_ref": "TN",
+        "name": "Town Edition",
+        "description": "Town Edition"
+    }],
+    "ref_name": "TN&WC - TN+WC Property & Supplements"
+}, {
+    "id": 210,
+    "group_publication_ref": "ZQ",
+    "name": "WL & WC Property & Supplements",
+    "description": "WL & WC Property & Supplements",
+    "activation_date": "2010-05-19T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 19,
+        "publication_ref": "WC",
+        "name": "Wolverhampton Chronicle",
+        "description": "Wolverhampton Chronicle"
+    }, {
+        "id": 284,
+        "publication_ref": "WL",
+        "name": "Walsall Edition",
+        "description": "Walsall Edition"
+    }],
+    "ref_name": "ZQ - WL & WC Property & Supplements"
+}, {
+    "id": 140,
+    "group_publication_ref": "ZN",
+    "name": "WL + CT Property & Supplements",
+    "description": "WL + CT Property & Supplements",
+    "activation_date": "2006-12-20T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 284,
+        "publication_ref": "WL",
+        "name": "Walsall Edition",
+        "description": "Walsall Edition"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }],
+    "ref_name": "ZN - WL + CT Property & Supplements"
+}, {
+    "id": 22,
+    "group_publication_ref": "ZO",
+    "name": "WL+ WT  Property & Supplements",
+    "description": "WL +WT Property & Supplements",
+    "activation_date": "1999-11-02T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 284,
+        "publication_ref": "WL",
+        "name": "Walsall Edition",
+        "description": "Walsall Edition"
+    }, {
+        "id": 18,
+        "publication_ref": "WT",
+        "name": "Walsall Chronicle",
+        "description": "Walsall Chronicle"
+    }],
+    "ref_name": "ZO - WL+ WT  Property & Supplements"
+}, {
+    "id": 145,
+    "group_publication_ref": "DW",
+    "name": "WL+CT Property",
+    "description": "WL+CT Property",
+    "activation_date": "2007-04-23T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 284,
+        "publication_ref": "WL",
+        "name": "Walsall Edition",
+        "description": "Walsall Edition"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }],
+    "ref_name": "DW - WL+CT Property"
+}, {
+    "id": 103,
+    "group_publication_ref": "WSI",
+    "name": "WS+SI Sits Vac",
+    "description": "WS+SI Sits Vac",
+    "activation_date": "2003-02-03T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 17,
+        "publication_ref": "JT",
+        "name": "Telford Journal",
+        "description": "Telford Journal"
+    }, {
+        "id": 12,
+        "publication_ref": "SJ",
+        "name": "South Shrops & M.Wales Journal",
+        "description": "South Shrops & M.Wales Journal"
+    }, {
+        "id": 11,
+        "publication_ref": "SI",
+        "name": "Shropshire Internet",
+        "description": "Shropshire Star.com"
+    }, {
+        "id": 10,
+        "publication_ref": "SC",
+        "name": "Shrewsbury Chronicle",
+        "description": "Shrewsbury Chronicle"
+    }, {
+        "id": 8,
+        "publication_ref": "NM",
+        "name": "Newport/M. Drayton Advertiser",
+        "description": "Newport/M. Drayton Advertiser"
+    }, {
+        "id": 1,
+        "publication_ref": "BJ",
+        "name": "Bridgnorth Journal",
+        "description": "Bridgnorth Journal"
+    }],
+    "ref_name": "WSI - WS+SI Sits Vac"
+}, {
+    "id": 150,
+    "group_publication_ref": "WSIL",
+    "name": "WS+SI+LS",
+    "description": "WS+SI+LS",
+    "activation_date": "2007-11-28T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 17,
+        "publication_ref": "JT",
+        "name": "Telford Journal",
+        "description": "Telford Journal"
+    }, {
+        "id": 12,
+        "publication_ref": "SJ",
+        "name": "South Shrops & M.Wales Journal",
+        "description": "South Shrops & M.Wales Journal"
+    }, {
+        "id": 11,
+        "publication_ref": "SI",
+        "name": "Shropshire Internet",
+        "description": "Shropshire Star.com"
+    }, {
+        "id": 10,
+        "publication_ref": "SC",
+        "name": "Shrewsbury Chronicle",
+        "description": "Shrewsbury Chronicle"
+    }, {
+        "id": 8,
+        "publication_ref": "NM",
+        "name": "Newport/M. Drayton Advertiser",
+        "description": "Newport/M. Drayton Advertiser"
+    }, {
+        "id": 153,
+        "publication_ref": "LS",
+        "name": "Legacy Shropshire",
+        "description": "Legacy Shropshire"
+    }, {
+        "id": 1,
+        "publication_ref": "BJ",
+        "name": "Bridgnorth Journal",
+        "description": "Bridgnorth Journal"
+    }],
+    "ref_name": "WSIL - WS+SI+LS"
+}, {
+    "id": 174,
+    "group_publication_ref": "WZE",
+    "name": "WZ & East Zone Chrons",
+    "description": "WZ & East Zone Chrons",
+    "activation_date": "2008-07-14T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 285,
+        "publication_ref": "WZ",
+        "name": "West Zone",
+        "description": "West Zone"
+    }, {
+        "id": 18,
+        "publication_ref": "WT",
+        "name": "Walsall Chronicle",
+        "description": "Walsall Chronicle"
+    }, {
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }],
+    "ref_name": "WZE - WZ & East Zone Chrons"
+}, {
+    "id": 230,
+    "group_publication_ref": "WZI",
+    "name": "WZ & IN Self Serve",
+    "description": "WZ & IN Self Serve",
+    "activation_date": "2013-06-03T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 285,
+        "publication_ref": "WZ",
+        "name": "West Zone",
+        "description": "West Zone"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }],
+    "ref_name": "WZI - WZ & IN Self Serve"
+}, {
+    "id": 172,
+    "group_publication_ref": "WZW",
+    "name": "WZ & West Zone Chrons",
+    "description": "WZ & West Zone Chrons",
+    "activation_date": "2008-06-30T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 19,
+        "publication_ref": "WC",
+        "name": "Wolverhampton Chronicle",
+        "description": "Wolverhampton Chronicle"
+    }, {
+        "id": 285,
+        "publication_ref": "WZ",
+        "name": "West Zone",
+        "description": "West Zone"
+    }, {
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }],
+    "ref_name": "WZW - WZ & West Zone Chrons"
+}, {
+    "id": 62,
+    "group_publication_ref": "ZV",
+    "name": "WZ+DT+IN Trade Classifieds",
+    "description": "WZ+DT+IN Trade Classifieds",
+    "activation_date": "2001-01-17T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 285,
+        "publication_ref": "WZ",
+        "name": "West Zone",
+        "description": "West Zone"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }],
+    "ref_name": "ZV - WZ+DT+IN Trade Classifieds"
+}, {
+    "id": 63,
+    "group_publication_ref": "ZW",
+    "name": "WZ+HC+IN Trade Classifieds",
+    "description": "WZ+HC+IN Trade Classifieds",
+    "activation_date": "2001-01-17T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 285,
+        "publication_ref": "WZ",
+        "name": "West Zone",
+        "description": "West Zone"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }],
+    "ref_name": "ZW - WZ+HC+IN Trade Classifieds"
+}, {
+    "id": 65,
+    "group_publication_ref": "ZY",
+    "name": "WZ+SH+IN Trade Classifieds",
+    "description": "WZ+SH+IN Trade Classifieds",
+    "activation_date": "2001-01-17T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 285,
+        "publication_ref": "WZ",
+        "name": "West Zone",
+        "description": "West Zone"
+    }, {
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }],
+    "ref_name": "ZY - WZ+SH+IN Trade Classifieds"
+}, {
+    "id": 66,
+    "group_publication_ref": "ZZ",
+    "name": "WZ+WC+IN Trade Classifieds",
+    "description": "WZ+WC+IN Trade Classifieds",
+    "activation_date": "2001-01-17T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 19,
+        "publication_ref": "WC",
+        "name": "Wolverhampton Chronicle",
+        "description": "Wolverhampton Chronicle"
+    }, {
+        "id": 285,
+        "publication_ref": "WZ",
+        "name": "West Zone",
+        "description": "West Zone"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }],
+    "ref_name": "ZZ - WZ+WC+IN Trade Classifieds"
+}, {
+    "id": 104,
+    "group_publication_ref": "WGI",
+    "name": "Weekly Gp. Internet",
+    "description": "Weekly Gp. Internet",
+    "activation_date": "2003-12-16T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 17,
+        "publication_ref": "JT",
+        "name": "Telford Journal",
+        "description": "Telford Journal"
+    }, {
+        "id": 12,
+        "publication_ref": "SJ",
+        "name": "South Shrops & M.Wales Journal",
+        "description": "South Shrops & M.Wales Journal"
+    }, {
+        "id": 10,
+        "publication_ref": "SC",
+        "name": "Shrewsbury Chronicle",
+        "description": "Shrewsbury Chronicle"
+    }, {
+        "id": 8,
+        "publication_ref": "NM",
+        "name": "Newport/M. Drayton Advertiser",
+        "description": "Newport/M. Drayton Advertiser"
+    }, {
+        "id": 1,
+        "publication_ref": "BJ",
+        "name": "Bridgnorth Journal",
+        "description": "Bridgnorth Journal"
+    }],
+    "ref_name": "WGI - Weekly Gp. Internet"
+}, {
+    "id": 21,
+    "group_publication_ref": "WS",
+    "name": "Weekly Series",
+    "description": "Weekly Series",
+    "activation_date": "1999-06-27T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 17,
+        "publication_ref": "JT",
+        "name": "Telford Journal",
+        "description": "Telford Journal"
+    }, {
+        "id": 12,
+        "publication_ref": "SJ",
+        "name": "South Shrops & M.Wales Journal",
+        "description": "South Shrops & M.Wales Journal"
+    }, {
+        "id": 10,
+        "publication_ref": "SC",
+        "name": "Shrewsbury Chronicle",
+        "description": "Shrewsbury Chronicle"
+    }, {
+        "id": 8,
+        "publication_ref": "NM",
+        "name": "Newport/M. Drayton Advertiser",
+        "description": "Newport/M. Drayton Advertiser"
+    }, {
+        "id": 1,
+        "publication_ref": "BJ",
+        "name": "Bridgnorth Journal",
+        "description": "Bridgnorth Journal"
+    }],
+    "ref_name": "WS - Weekly Series"
+}, {
+    "id": 190,
+    "group_publication_ref": "WED",
+    "name": "West Edtion",
+    "description": "West Edtion",
+    "activation_date": "2009-06-15T23:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 283,
+        "publication_ref": "TN",
+        "name": "Town Edition",
+        "description": "Town Edition"
+    }, {
+        "id": 275,
+        "publication_ref": "DY",
+        "name": "Dudley Edition",
+        "description": "Dudley Edition"
+    }],
+    "ref_name": "WED - West Edtion"
+}, {
+    "id": 84,
+    "group_publication_ref": "XAI",
+    "name": "XA + IN Sits Vac Classifieds",
+    "description": "XA + IN Sits Vac Classifeds",
+    "activation_date": "2001-12-06T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 16,
+        "publication_ref": "SH",
+        "name": "Stourbridge Chronicle",
+        "description": "Stourbridge Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "XAI - XA + IN Sits Vac Classifieds"
+}, {
+    "id": 85,
+    "group_publication_ref": "XDI",
+    "name": "XD + IN Sits Vac Classifieds",
+    "description": "XD + IN Sits Vac Classifeds",
+    "activation_date": "2001-12-06T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 4,
+        "publication_ref": "HC",
+        "name": "Halesowen Chronicle",
+        "description": "Halesowen Chronicle"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "XDI - XD + IN Sits Vac Classifieds"
+}, {
+    "id": 86,
+    "group_publication_ref": "XGI",
+    "name": "XG + IN Sits Vac Classifieds",
+    "description": "XG + IN Sits Vac Classifieds",
+    "activation_date": "2001-12-06T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 2,
+        "publication_ref": "CT",
+        "name": "Cannock Chronicle",
+        "description": "Cannock Chronicle"
+    }],
+    "ref_name": "XGI - XG + IN Sits Vac Classifieds"
+}, {
+    "id": 87,
+    "group_publication_ref": "XHI",
+    "name": "XH + IN Sits Vac Classifieds",
+    "description": "XH + IN Sits Vac Classifieds",
+    "activation_date": "2001-12-06T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }, {
+        "id": 3,
+        "publication_ref": "DT",
+        "name": "Dudley Chronicle",
+        "description": "Dudley Chronicle"
+    }],
+    "ref_name": "XHI - XH + IN Sits Vac Classifieds"
+}, {
+    "id": 88,
+    "group_publication_ref": "XMI",
+    "name": "XM + IN Sits Vac Classifieds",
+    "description": "XM + IN Sits Vac Classifieds",
+    "activation_date": "2001-12-06T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 9,
+        "publication_ref": "SW",
+        "name": "Sandwell & Gt. Barr Chronicle",
+        "description": "Sandwell & Gt. Barr Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "XMI - XM + IN Sits Vac Classifieds"
+}, {
+    "id": 90,
+    "group_publication_ref": "XOI",
+    "name": "XO + IN Sits Vac Classifeds",
+    "description": "XO + IN Sits Vac Classifeds",
+    "activation_date": "2001-12-06T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 18,
+        "publication_ref": "WT",
+        "name": "Walsall Chronicle",
+        "description": "Walsall Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "XOI - XO + IN Sits Vac Classifeds"
+}, {
+    "id": 92,
+    "group_publication_ref": "XWI",
+    "name": "XW + IN Sits Vac Classifieds",
+    "description": "XW + IN Sits Vac Classiifeds",
+    "activation_date": "2001-12-06T00:00:00.000Z",
+    "expiry_date": null,
+    "publications": [{
+        "id": 19,
+        "publication_ref": "WC",
+        "name": "Wolverhampton Chronicle",
+        "description": "Wolverhampton Chronicle"
+    }, {
+        "id": 5,
+        "publication_ref": "IN",
+        "name": "Internet (west midland.com)",
+        "description": "Internet (west midland.com)"
+    }, {
+        "id": 29,
+        "publication_ref": "ES",
+        "name": "Express & Star",
+        "description": "Express & Star"
+    }],
+    "ref_name": "XWI - XW + IN Sits Vac Classifieds"
+}]
