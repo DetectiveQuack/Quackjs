@@ -1,4 +1,5 @@
-# QuackJS Test api, test api for canned responses
+# QuackJS Test api
+# api for canned responses
 
 ## Structure
 The route will be dynamically created based on the location of the file
