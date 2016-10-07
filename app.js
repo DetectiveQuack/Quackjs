@@ -1,11 +1,7 @@
-(function() {
     'use strict';
 
     const app = require('express')(),
         cors = require('cors'),
-        http = require('http'),
-        server = http.createServer(app),
-        io = require('socket.io').listen(server),
         fs = require('fs'),
         walk = require('walk'),
         walker = walk.walk('./responses', {
@@ -23,14 +19,14 @@
         extended: true
     }));
 
-    server.listen(2337, function() {
+    app.listen(5477, function() {
         console.log(`
                 #############################################
                 ############__---~~~~~|~~~~~--__#############
                 ########.-~~          |          ~~-.########
                 #####.-~     .-~~~~-. |              ~-.#####
                 ####/       {  o     }|                 \\####
-                ###/        /       / |  SK              \\###
+                ###/        /       / |  QuackJS         \\###
                 ##|        \`--r'   {  | ,___.-',         |###
                 ##|          /      ~-|         ',        |##
                 ##|---------{---------|----------'--------|##
@@ -43,34 +39,7 @@
                 ############~~---_____|_____---~~############
                 #############################################
 
-                      SKTestApi listening on port 2337`);
-    });
-
-    app.get('/system/initialise', function(req, res) {
-        res.send('Initialise!');
-    });
-
-    app.get('/__getcookie', function(req, res) {
-        res.send('_sailsIoJSConnect();');
-    });
-
-    app.get('/session/refesh', function(req, res) {
-        var date = new Date(),
-
-            //get date of 30 days ahead
-            expiry = new Date(date().setDate(date().getDate() + 30));
-
-        res.send({
-            auth: 1,
-            token: 'Fake',
-            token_expiry: expiry,
-            uuid: 'd4c63613-d626-4a3f-89de-791f3a03d0f6',
-            created_at: date,
-            updated_at: date,
-            created_by: 1,
-            updated_by: 1,
-            id: 1
-        });
+                        QuackJS listening on 5477             `);
     });
 
     //Create route by walking the responses directory
@@ -103,12 +72,3 @@
 
         next();
     });
-
-    //temp till re auth workaround
-    walker.on('end', function() {
-        app.get('*', function(req, res) {
-            res.send({});
-        });
-    });
-
-})();

@@ -1,10 +1,9 @@
-# SK Test API
-## Fake responses for siesta tests
+# QuackJS Test api, test api for canned responses
 
 ## Structure
 The route will be dynamically created based on the location of the file
 
-	e.g. http method = POST 'http://localhost:2337/auth/find'
+	e.g. http method = POST 'http://localhost:5477/{route}'
 
 	responses ->
 		auth ->
